@@ -1,0 +1,23 @@
+{
+  "name": "quick",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "Jorry": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jorry","vue","template"],
+  "author": "和振斌",
+  "license": "MIT",
+  "homepage": "https://github.com/",
+
+  "dependencies": {
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.9",
+    "open": "^7.3.0"
+  }
+}
